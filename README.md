@@ -9,3 +9,5 @@ Projeto Integrador II
 * Gabriel Cavalcante
 * Isthefani Vitoria 
 * Jardel Praxedes 
+
+<hr>

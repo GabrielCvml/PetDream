@@ -2,9 +2,9 @@
 
 Projeto Integrador II 
 
-<br>
+<hr>
 
-#Integrantes:
+## Integrantes:
 
 * Gabriel Cavalcante
 * Isthefani Vitoria 

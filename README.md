@@ -4,7 +4,7 @@ Projeto Integrador II
 
 <hr>
 
-## Integrantes:
+## Colaboradores:
 
 * Gabriel Cavalcante
 * Isthefani Vitoria 
